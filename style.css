@@ -22,6 +22,7 @@ footer {
 
 .footer {
     text-align:center;
+    display: inline;
 
 }
 
@@ -78,5 +79,5 @@ nav {
 }
 
 .footer-nav li {
-    display: 
+    display: inline;
 }
